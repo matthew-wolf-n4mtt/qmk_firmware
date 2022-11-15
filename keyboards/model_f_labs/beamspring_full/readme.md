@@ -5,6 +5,7 @@
 A short description of the keyboard/project
 
 * Keyboard Maintainer: [Purdea Andrei](https://github.com/purdeaandrei)
+* Build Maintainer: Matthew J Wolf
 * Hardware Supported: Supports the brand new beamspring reproductions from https://www.modelfkeyboards.com/, using the smaller xwhatsit controller developed by wcass.
 * Hardware Availability: https://www.modelfkeyboards.com/
 

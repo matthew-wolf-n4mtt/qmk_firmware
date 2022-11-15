@@ -5,6 +5,7 @@
 A short description of the keyboard/project
 
 * Keyboard Maintainer: [Purdea Andrei](https://github.com/purdeaandrei)
+* Build Maintainer: Matthew J Wolf
 * Hardware Supported: Supports the brand new Model F62 from https://www.modelfkeyboards.com/ with the scumyc/scumnc layout, using the smaller xwhatsit controller developed by wcass.
 * Hardware Availability: https://www.modelfkeyboards.com/
 
