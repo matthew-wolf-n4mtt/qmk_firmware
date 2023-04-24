@@ -21,11 +21,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID 0xFEED
-#define PRODUCT_ID 0X0F62
-#define DEVICE_VER 0x0001
-#define MANUFACTURER Model F Labs
-#define PRODUCT Reproduction IBM F62 Keyboard
+// #define VENDOR_ID 0xFEED
+// #define PRODUCT_ID 0X0F62
+// #xdefine DEVICE_VER 0x0001
+// #define MANUFACTURER Model F Labs
+// #define PRODUCT Reproduction IBM F62 Keyboard
 //  DESCRIPTION is no longer an option 
 //#define DESCRIPTION Tom Wong-Cornall/Ellipse/wcass/Purdea Andrei
 
