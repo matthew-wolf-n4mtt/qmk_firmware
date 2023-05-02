@@ -1,4 +1,4 @@
-Matthew J Wolf 14-Jun-2022 model_f_labs
+Matthew J Wolf 02-May-2023 model_f_labs
 
 ----
 I have decided that at this time I am only going to continue working on 
@@ -42,11 +42,16 @@ Changes to Source Files
 
 USB Descriptor Changes
 ----------------------
+The newset version of VIA does not like the VID of 0XFEED.
+The F77 now uses the USB IDs that Ellipse requested
+F77:
+-Vendor ID:  0x1209
+-Product ID: 0x4707
+
 Vendor ID: 0xFEED
 Product ID:
 F62        - 0X0F62
 F62_scumyc - 0x1F62
-F77        - 0x0F77
 -- ASCII HEX for "S" is 0x53
 beamspring_full - 0x0B53
 beamspring_ssk  - 0x1B53
