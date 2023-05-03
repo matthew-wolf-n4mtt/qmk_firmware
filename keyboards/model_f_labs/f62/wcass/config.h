@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-#include "config_common.h"
+//#include "config_common.h"
 
 /* USB Device descriptor parameter */
 // #define VENDOR_ID 0xFEED
@@ -66,6 +66,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Bootmagic Lite key configuration */
 // #define BOOTMAGIC_LITE_ROW 0
 // #define BOOTMAGIC_LITE_COLUMN 0
+
+#define HOLD_ON_OTHER_KEY_PRESS
 
 /* XWHATSIT CONTROLLER TYPE */
 #define CONTROLLER_IS_XWHATSIT_MODEL_F_OR_WCASS_MODEL_F
