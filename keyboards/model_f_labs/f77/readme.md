@@ -1,6 +1,6 @@
 # model_f_labs/f77
 
-![model_f_labs/f77](https://www.modelfkeyboards.com/wp-content/uploads/2016/01/2020-01-07_01-13-52.jpg)
+![model_f_labs/f77](https://imgbox.com/yoKowuAi)
 
 A short description of the keyboard/project
 

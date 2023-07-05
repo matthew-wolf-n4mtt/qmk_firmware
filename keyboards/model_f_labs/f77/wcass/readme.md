@@ -1,7 +1,5 @@
 # model_f_labs/f77/wcass
 
-![model_f_labs/f77/wcass](https://www.modelfkeyboards.com/wp-content/uploads/2019/11/F62-F77-new.jpg)
-
 A short description of the keyboard/project
 
 * Keyboard Maintainer: [Purdea Andrei](https://github.com/purdeaandrei)
