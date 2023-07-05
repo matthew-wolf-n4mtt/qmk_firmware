@@ -3,8 +3,6 @@
     "manufacturer": "Model F Labs",
     "url": "https://www.modelfkeyboards.com/",
     "maintainer": "Purdea Andrei",
-    "width": 18.25,
-    "height": 5,
     "layouts": {
         "LAYOUT_all": {
             "layout": [
