@@ -1,6 +1,6 @@
 # model_f_labs/f77
 
-![model_f_labs/f77](https://imgbox.com/yoKowuAi)
+![model_f_labs/f77](https://images2.imgbox.com/cf/c6/yoKowuAi_o.jpg)
 
 A short description of the keyboard/project
 
