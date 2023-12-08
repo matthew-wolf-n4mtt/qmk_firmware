@@ -37,7 +37,7 @@
     "url": "https://www.modelfkeyboards.com/",
     "usb": {
         "device_version": "0.0.1",
-        "pid": "0x4707",
+        "pid": "0x4704",
         "vid": "0x1209"
     },
     "layouts": {
