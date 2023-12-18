@@ -38,20 +38,15 @@ In the middle of 2021 Matthew J Wolf (github: matthew-wolf-n4mtt,
 deskthority.net: wolfman) started to refactor the pandrew QMK firmware for
 inclusion into the official QMK source repository.
 
-A short list of differences from the pandrew wolfman QMK firmware:
-- Different file system names.
-- Significant refactoring of the build system.
-- Noticeable refactoring of the C source.
-  - Pre-processor defines moved to header file or C functions.
-  - Manually merged Andrew updates.
-  - Changes due newer MK API 
-- Added pi.codes USB VID and PID
-
 ## The Pandrew xwhatsit Utility 
 !!! Add details about wolfman hacked pandrew-xwhatsit-utility !!!  
 
 [1] IBM capsense USB keyboard controllers, https://static.wongcornall.com/ibm-capsense-usb-web/ibm-capsense-usb.html (accessed Dec. 8, 2023). 
+
 [2] XWHATSIT’s Grand Unified IBM capsense USB controller thread, https://geekhack.org/index.php?topic=58138.0 (accessed Dec. 8, 2023). 
+
 [3] Baslqc, “BASLQC/xwhatits-capsense-controller: A GPLv3 keyboard controller created by xwhatit from Geekhack for IBM model F and Beamspring capacitive keyboards. archived by the BASLQC on github.,” GitHub, https://github.com/baslqc/xwhatits-capsense-controller (accessed Dec. 8, 2023). 
+
 [4] Index of /IBM-capsense-USB/, https://static.wongcornall.com/ibm-capsense-usb/ (accessed Dec. 8, 2023). 
+
 [5] Brand New Model F keyboards, https://www.modelfkeyboards.com/about/ (accessed Dec. 8, 2023). 
