@@ -31,9 +31,6 @@
     "split": {
         "soft_serial_pin": "D0"
     },
-    "tapping": {
-        "hold_on_other_key_press": false
-    },
     "url": "https://www.modelfkeyboards.com/",
     "usb": {
         "device_version": "0.0.1",
