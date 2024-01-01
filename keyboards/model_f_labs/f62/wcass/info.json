@@ -20,9 +20,6 @@
         "num_lock": "B4"
     },
     "processor": "atmega32u2",
-    "split": {
-        "soft_serial_pin": "D0"
-    },
     "usb": {
         "device_version": "0.0.1",
         "pid": "0x6262",
