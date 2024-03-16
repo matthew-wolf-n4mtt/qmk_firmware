@@ -16,7 +16,7 @@ Make example for this keyboard (after setting up your build environment):
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
 
-## How do you access enter the boot loader?
+## How do you enter the boot loader?
 
 There are three ways to enter the boot loader.
 * **Command**: At the same time hold down both shift key and the B key.
