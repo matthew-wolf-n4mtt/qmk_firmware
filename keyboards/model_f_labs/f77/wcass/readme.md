@@ -2,7 +2,7 @@
 
 ![model_f_labs/f77](https://images2.imgbox.com/cf/c6/yoKowuAi_o.jpg)
 
-A short description of the keyboard/project
+A description of the keyboard/project
 
 * Keyboard Maintainer: [Purdea Andrei](https://github.com/purdeaandrei)
 * Build Maintainer: Matthew J Wolf
